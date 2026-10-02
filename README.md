@@ -1,6 +1,6 @@
+English | [中文](README.zh-CN.md)
 # r0env2026
 FinSectech reverse-engineering VM docs
-# r0env2026
 
 An AI-assisted reverse-engineering environment for people who do not want to install Java, Frida, a proxy, and an agent from scratch.
 
